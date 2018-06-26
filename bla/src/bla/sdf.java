@@ -12,5 +12,6 @@ public class sdf {
 		String name1="sagar";
 		String name2=name+name1;
 		System.out.println(name2);
+		System.out.println();
 	}
 }
