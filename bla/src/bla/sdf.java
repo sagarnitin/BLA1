@@ -7,5 +7,9 @@ public class sdf {
 		
 		
 		///sop
+		
+		String name="Nitin";
+		String name1="sagar";
+		String name2=name+name1;
 	}
 }
